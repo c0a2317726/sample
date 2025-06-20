@@ -1,5 +1,4 @@
-@import "{{ site.theme }}";
-<style>
+
 body {
 	background: lightcyan;
 	width: 800px;
@@ -16,4 +15,3 @@ p {
 	border: 1px solid gray;
 	padding: 10px;
 }
-</style>
